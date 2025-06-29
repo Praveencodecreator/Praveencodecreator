@@ -1,44 +1,53 @@
-<!-- 
-Hi, I'm [Your Name]! 👋
--->
-
-# Hi, I'm Praveen! 👋
-
-## 🚀 About Me
-I'm a full-stack developer, passionate about building accessible and user-friendly web applications. I love solving complex problems and learning new technologies.
-
-- 🔭 I’m currently working on [Your Project Name](link-to-your-project)
-- 🌱 I’m currently learning **[Technology you are learning]**
-- 👯 I’m looking to collaborate on Open Source projects
-- 💬 Ask me about **[Your favorite topic, e.g., React, Python, etc.]**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
-
-
-## 🛠️ My Skills
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
+<!-- Header -->
+<p align="center">
+  <img src="https://path-to-your-banner-image.com/banner.png" alt="My Profile Banner" width="100%"/>
 </p>
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+<!-- Introduction -->
+<h1 align="center">Hi 👋, I'm Praveen </h1>
+<h3 align="center">A passionate developer from Rajkot </h3>
+
+<!-- Social Links -->
+<p align="left">
+<a href="https://linkedin.com/in/[your-linkedin-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[your-linkedin-username]" height="30" width="40" /></a>
+<a href="https://twitter.com/[your-twitter-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[your-twitter-username]" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/[your-user-id]/[your-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[your-username]" height="30" width="40" /></a>
+<a href="https://instagram.com/[your-instagram-username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[your-instagram-username]" height="30" width="40" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me:
+
+- 🔭 I’m currently working on a **MERN stack E-commerce App**.
+- 🌱 I’m currently learning **Go and Docker**.
+- 👯 I’m looking to collaborate on **DevOps and backend projects**.
+- 🤔 I’m looking for help with **advanced GraphQL concepts**.
+- 💬 Ask me about **JavaScript, React, Node.js, and System Design**.
+- 📫 How to reach me: **[praveennaaz23@gmail.com]**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: **I speak three languages fluently!**
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,figma,docker,aws" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="[YOUR-USERNAME]'s GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical" alt="GitHub Streak" />
+</p>
+
