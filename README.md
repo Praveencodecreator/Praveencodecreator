@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://path-to-your-banner-image.com/banner.png" alt="My Profile Banner" width="100%"/>
+  <img src="https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?fit=1600%2C840" alt="My Profile Banner" width="100%"/>
 </p>
 
 <!-- Introduction -->
