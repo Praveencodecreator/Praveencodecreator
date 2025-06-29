@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?fit=1600%2C840" alt="My Profile Banner" width="100%"/>
+  <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe.png" alt="My Profile Banner" width="100%"/>
 </p>
 
 <!-- Introduction -->
